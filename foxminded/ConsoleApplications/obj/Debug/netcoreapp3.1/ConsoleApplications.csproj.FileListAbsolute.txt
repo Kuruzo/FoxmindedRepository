@@ -1,0 +1,13 @@
+D:\IT\VS Open Project\foxminded\ConsoleApplications\bin\Debug\netcoreapp3.1\ConsoleApplications.exe
+D:\IT\VS Open Project\foxminded\ConsoleApplications\bin\Debug\netcoreapp3.1\ConsoleApplications.deps.json
+D:\IT\VS Open Project\foxminded\ConsoleApplications\bin\Debug\netcoreapp3.1\ConsoleApplications.runtimeconfig.json
+D:\IT\VS Open Project\foxminded\ConsoleApplications\bin\Debug\netcoreapp3.1\ConsoleApplications.runtimeconfig.dev.json
+D:\IT\VS Open Project\foxminded\ConsoleApplications\bin\Debug\netcoreapp3.1\ConsoleApplications.dll
+D:\IT\VS Open Project\foxminded\ConsoleApplications\bin\Debug\netcoreapp3.1\ConsoleApplications.pdb
+D:\IT\VS Open Project\foxminded\ConsoleApplications\obj\Debug\netcoreapp3.1\ConsoleApplications.csprojAssemblyReference.cache
+D:\IT\VS Open Project\foxminded\ConsoleApplications\obj\Debug\netcoreapp3.1\ConsoleApplications.AssemblyInfoInputs.cache
+D:\IT\VS Open Project\foxminded\ConsoleApplications\obj\Debug\netcoreapp3.1\ConsoleApplications.AssemblyInfo.cs
+D:\IT\VS Open Project\foxminded\ConsoleApplications\obj\Debug\netcoreapp3.1\ConsoleApplications.csproj.CoreCompileInputs.cache
+D:\IT\VS Open Project\foxminded\ConsoleApplications\obj\Debug\netcoreapp3.1\ConsoleApplications.dll
+D:\IT\VS Open Project\foxminded\ConsoleApplications\obj\Debug\netcoreapp3.1\ConsoleApplications.pdb
+D:\IT\VS Open Project\foxminded\ConsoleApplications\obj\Debug\netcoreapp3.1\ConsoleApplications.genruntimeconfig.cache
